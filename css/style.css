@@ -2,13 +2,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-div {
-  width: 300px;
-  border: 15px white;
-  padding: 50px;
-  margin: 20px;
-}
-
 header {
     background-color: #333;
     color: #fff;
