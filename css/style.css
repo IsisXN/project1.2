@@ -12,6 +12,7 @@ header {
 h1 {
     font-size: 36px; /* Change the font size for h1 */
 	line-height: 1.2em;
+	background-color: #45b085;
 }
 
 h2 {
