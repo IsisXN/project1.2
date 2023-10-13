@@ -12,11 +12,13 @@ header {
 h1 {
     font-size: 36px; /* Change the font size for h1 */
 	line-height: 1.2em;
-	background-color: #45b085;
+	background-color: #57dea8;
 }
 
 h2 {
     font-size: 28px; /* Change the font size for h1 */
+	line-height: 1.2em;
+	background-color: #57dea8;
 }
 
 .signup {
