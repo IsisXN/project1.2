@@ -27,18 +27,20 @@ h3 {
 	font-family: "Times New Roman", Times, serif;
 	line-height: 1.2em;
 	padding: 20px;
+		background-color: #bdfff4;
+
 }
 
 .signup {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-	background-color: #bdfff4;
+	background-color:#d5f7ee;
 }
 
 label, input, select {
     display: block;
-    margin-bottom: 11px;
+    margin-bottom: 10px;
 }
 
 input, select {
