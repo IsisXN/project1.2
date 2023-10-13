@@ -12,13 +12,13 @@ body {
 	margin-bottom: 2%;
 }
 
-h1 {
+#h1 {
     font-size: 36px; /* Change the font size for h1 */
 	line-height: 1.2em;
 	background-color: #88ebd0;
 }
 
-h2 {
+#h2 {
     font-size: 28px; /* Change the font size for h1 */
 	line-height: 1.2em;
 	padding: 20px;
