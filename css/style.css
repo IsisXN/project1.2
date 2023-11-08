@@ -8,7 +8,7 @@ body {
     text-align: center;
 	width: 90%;
 	height: 100%;
-	padding: 2% 5%;
+	padding: 10px;
 	margin-bottom: 2%;
 	margin-left: 10%;
 	margin-right: 20%;
@@ -26,7 +26,7 @@ h1 {
 h2 {
     font-size: 28px; /* Change the font size for h2 */
 	line-height: 1.2em;
-	padding: 20px;
+	padding: 10px;
 	margin-left: 10%;
 	margin-right: 20%;
 }
@@ -35,7 +35,7 @@ h3  {
     font-size: 18px; /* Change the font size for h1 */
 	font-family: "Times New Roman", Times, serif;
 	line-height: 1.2em;
-	padding: 20px;
+	padding: 10px;
     background-color: #bdfff4;
 	margin-left: 10%;
 	margin-right: 20%;
@@ -44,7 +44,7 @@ h3  {
 .signup {
     max-width: 600px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
 	background-color:#d5f7ee;
 }
 
@@ -65,7 +65,7 @@ input, select {
 
 button {
     padding: 10px;
-    font-size: 16px;
+    font-size: 20px;
     background-color: #333;
     color: #fff;
     border: none;
