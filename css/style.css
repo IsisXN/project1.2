@@ -10,8 +10,8 @@ body {
 	height: 100%;
 	padding: 10px;
 	margin-bottom: 2%;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 h1 {
@@ -19,16 +19,16 @@ h1 {
 	line-height: 1.2em;
 	height: 100%;
 	background-color: #88ebd0;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 h2 {
     font-size: 28px; /* Change the font size for h2 */
 	line-height: 1.2em;
 	padding: 10px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 h3  {
@@ -37,8 +37,8 @@ h3  {
 	line-height: 1.2em;
 	padding: 10px;
     background-color: #bdfff4;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 .signup {
@@ -52,24 +52,24 @@ h3  {
     display: block;
 	padding: 10px;
 	font-size: 16px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 #input-email{
     width: 100%;
     padding: 10px;
     font-size: 16px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 #input-newsType{
 	width: 100%;
     padding: 10px;
     font-size: 16px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 #input-submit{
@@ -78,8 +78,8 @@ h3  {
     font-size: 16px;
     color: #fff;
     cursor: pointer;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 	vertical-align: center
 }
 
@@ -92,8 +92,8 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 @media(max-width: 900px){
 /*html Styling*/
