@@ -50,7 +50,8 @@ h3  {
 
 #input-name{
     display: block;
-    margin-bottom: 10px;
+	padding: 10px;
+	font-size: 16px;
 	margin-left: 10%;
 	margin-right: 20%;
 }
