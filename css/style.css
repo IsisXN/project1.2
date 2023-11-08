@@ -10,6 +10,8 @@ body {
 	height: 100%;
 	padding: 2% 5%;
 	margin-bottom: 2%;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 h1 {
@@ -17,12 +19,16 @@ h1 {
 	line-height: 1.2em;
 	height: 100%;
 	background-color: #88ebd0;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 h2 {
     font-size: 28px; /* Change the font size for h2 */
 	line-height: 1.2em;
 	padding: 20px;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 h3  {
@@ -31,6 +37,8 @@ h3  {
 	line-height: 1.2em;
 	padding: 20px;
     background-color: #bdfff4;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 .signup {
@@ -43,12 +51,16 @@ h3  {
 label, input, select {
     display: block;
     margin-bottom: 10px;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 input, select {
     width: 100%;
     padding: 10px;
     font-size: 16px;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 button {
@@ -58,6 +70,8 @@ button {
     color: #fff;
     border: none;
     cursor: pointer;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 button:hover {
@@ -69,6 +83,8 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 @media(max-width: 900px){
 /*html Styling*/
