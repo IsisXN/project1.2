@@ -11,7 +11,7 @@ body {
 	padding: 10px;
 	margin-bottom: 2%;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 	height: 100%;
 	background-color: #88ebd0;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 h2 {
@@ -28,7 +28,7 @@ h2 {
 	line-height: 1.2em;
 	padding: 10px;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 h3  {
@@ -38,7 +38,7 @@ h3  {
 	padding: 10px;
     background-color: #bdfff4;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 .signup {
@@ -53,7 +53,7 @@ h3  {
 	padding: 10px;
 	font-size: 16px;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 #input-email{
@@ -61,7 +61,7 @@ h3  {
     padding: 10px;
     font-size: 16px;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 #input-newsType{
@@ -69,7 +69,7 @@ h3  {
     padding: 10px;
     font-size: 16px;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 button {
@@ -80,7 +80,7 @@ button {
     border: none;
     cursor: pointer;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 button:hover {
@@ -93,7 +93,7 @@ footer {
     text-align: center;
     padding: 10px;
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 }
 @media(max-width: 900px){
 /*html Styling*/
