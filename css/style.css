@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-size: 36px; /* Change the font size for h1 */
+    font-size: 20px; /* Change the font size for h1 */
 	line-height: 1.2em;
 	height: 100%;
 	background-color: #88ebd0;
@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-    font-size: 28px; /* Change the font size for h2 */
+    font-size: 18px; /* Change the font size for h2 */
 	line-height: 1.2em;
 	padding: 10px;
 	margin-left: 5%;
