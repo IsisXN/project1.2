@@ -73,14 +73,16 @@ h3  {
 }
 
 button {
+	width: 100%;
     padding: 10px;
-    font-size: 20px;
+    font-size: 16px;
     background-color: #333;
     color: #fff;
     border: none;
     cursor: pointer;
 	margin-left: 10%;
 	margin-right: 10%;
+	vertical-align: center
 }
 
 button:hover {
